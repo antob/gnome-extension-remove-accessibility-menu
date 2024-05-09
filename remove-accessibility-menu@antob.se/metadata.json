@@ -3,6 +3,7 @@
   "description": "Removes the accessibility menu",
   "uuid": "remove-accessibility-menu@antob.se",
   "shell-version": [
-    "45"
+    "45",
+    "46"
   ]
 }
